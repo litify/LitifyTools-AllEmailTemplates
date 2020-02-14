@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>LEXTHEMINGLitify</members>
+        <name>BrandingSet</name>
+    </types>
+    <types>
+        <members>Litify_Icon_Profile_Image</members>
+        <members>X01intake_1</members>
+        <members>X02matters_1</members>
+        <members>X03setup_1</members>
+        <members>X04com_1</members>
+        <members>bluelogo</members>
+        <members>download</members>
+        <name>ContentAsset</name>
+    </types>
+    <types>
+        <members>litify_pm__Litify_Logos/Litify_Logo.png</members>
+        <name>Document</name>
+    </types>
+    <types>
+        <members>litify_pm__Litify_Support/Matter_Assigned_to_User</members>
+        <members>litify_pm__Litify_Support/New_Matter_Notification</members>
+        <members>litify_pm__Litify_Support/New_Trialforce_Welcome_What_to_Expect</members>
+        <members>litify_pm__Litify_Support/Send_Questionnaire_and_Responses_to_Client</members>
+        <members>litify_pm__Litify_Support/Turn_Down_Email</members>
+        <members>litify_pm__Litify_Support/Welcome_Email</members>
+        <members>unfiled$public/litify_tso_Questionnaire_Output_Email</members>
+        <name>EmailTemplate</name>
+    </types>
+    <types>
+        <members>Litify_Letterhead</members>
+        <name>Letterhead</name>
+    </types>
+    <version>47.0</version>
+</Package>
